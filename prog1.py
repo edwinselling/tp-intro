@@ -40,3 +40,5 @@ else:
             else:
                 print("snyggt jobbat du vinner")
 
+
+i
